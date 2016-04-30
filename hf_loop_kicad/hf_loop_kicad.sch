@@ -1,0 +1,220 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L INDUCTOR L1
+U 1 1 5724C0BE
+P 6750 2575
+F 0 "L1" V 6700 2575 50  0000 C CNN
+F 1 "Resonant loop: 125cm, ø10mm" V 6850 2575 50  0000 C CNN
+F 2 "" H 6750 2575 50  0000 C CNN
+F 3 "" H 6750 2575 50  0000 C CNN
+	1    6750 2575
+	1    0    0    -1  
+$EndComp
+$Comp
+L INDUCTOR L2
+U 1 1 5724C159
+P 7100 2575
+F 0 "L2" V 7050 2575 50  0000 C CNN
+F 1 "Coupling loop: 28cm, ø8mm" V 7200 2575 50  0000 C CNN
+F 2 "" H 7100 2575 50  0000 C CNN
+F 3 "" H 7100 2575 50  0000 C CNN
+	1    7100 2575
+	-1   0    0    1   
+$EndComp
+$Comp
+L BNC P1
+U 1 1 5724C1EC
+P 7450 2175
+F 0 "P1" H 7460 2295 50  0000 C CNN
+F 1 "SMA Male" V 7560 2115 50  0000 C CNN
+F 2 "" H 7450 2175 50  0000 C CNN
+F 3 "" H 7450 2175 50  0000 C CNN
+	1    7450 2175
+	1    0    0    -1  
+$EndComp
+$Comp
+L CTRIM C1
+U 1 1 5724C231
+P 5025 3150
+F 0 "C1" H 5085 3070 50  0000 C CNN
+F 1 "30pF" H 5145 3010 50  0000 C CNN
+F 2 "" H 5025 3150 50  0000 C CNN
+F 3 "" H 5025 3150 50  0000 C CNN
+	1    5025 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CTRIM C2
+U 1 1 5724C2C0
+P 5375 3150
+F 0 "C2" H 5435 3070 50  0000 C CNN
+F 1 "430pF" H 5495 3010 50  0000 C CNN
+F 2 "" H 5375 3150 50  0000 C CNN
+F 3 "" H 5375 3150 50  0000 C CNN
+	1    5375 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CTRIM C3
+U 1 1 5724C343
+P 5725 3150
+F 0 "C3" H 5785 3070 50  0000 C CNN
+F 1 "30pF" H 5845 3010 50  0000 C CNN
+F 2 "" H 5725 3150 50  0000 C CNN
+F 3 "" H 5725 3150 50  0000 C CNN
+	1    5725 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CTRIM C4
+U 1 1 5724C3D6
+P 6050 3150
+F 0 "C4" H 6110 3070 50  0000 C CNN
+F 1 "430pF" H 6170 3010 50  0000 C CNN
+F 2 "" H 6050 3150 50  0000 C CNN
+F 3 "" H 6050 3150 50  0000 C CNN
+	1    6050 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CTRIM C5
+U 1 1 5724C483
+P 6400 3150
+F 0 "C5" H 6460 3070 50  0000 C CNN
+F 1 "30pF" H 6520 3010 50  0000 C CNN
+F 2 "" H 6400 3150 50  0000 C CNN
+F 3 "" H 6400 3150 50  0000 C CNN
+	1    6400 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L SPST SW1
+U 1 1 5724C4F2
+P 5375 2200
+F 0 "SW1" H 5375 2300 50  0000 C CNN
+F 1 "Switch 3 - 430pF" H 5375 2100 50  0000 C CNN
+F 2 "" H 5375 2200 50  0000 C CNN
+F 3 "" H 5375 2200 50  0000 C CNN
+	1    5375 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SPST SW2
+U 1 1 5724C555
+P 5725 2200
+F 0 "SW2" H 5725 2300 50  0000 C CNN
+F 1 "Switch 2 - 60pF" H 5725 2100 50  0000 C CNN
+F 2 "" H 5725 2200 50  0000 C CNN
+F 3 "" H 5725 2200 50  0000 C CNN
+	1    5725 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SPST SW3
+U 1 1 5724C5EC
+P 6050 2200
+F 0 "SW3" H 6050 2300 50  0000 C CNN
+F 1 "Switch 1 - 430pF" H 6050 2100 50  0000 C CNN
+F 2 "" H 6050 2200 50  0000 C CNN
+F 3 "" H 6050 2200 50  0000 C CNN
+	1    6050 2200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7300 2175 7100 2175
+Wire Wire Line
+	7100 2175 7100 2275
+Wire Wire Line
+	7450 2375 7450 2925
+Wire Wire Line
+	7450 2925 7100 2925
+Wire Wire Line
+	7100 2925 7100 2875
+Wire Wire Line
+	6750 2875 6750 3500
+Wire Wire Line
+	5025 3500 5025 3300
+Wire Wire Line
+	6400 3300 6400 3500
+Connection ~ 6400 3500
+Wire Wire Line
+	6050 3300 6050 3500
+Connection ~ 6050 3500
+Wire Wire Line
+	5725 3300 5725 3500
+Connection ~ 5725 3500
+Wire Wire Line
+	5375 3300 5375 3500
+Connection ~ 5375 3500
+Wire Wire Line
+	6750 1550 6750 2275
+Wire Wire Line
+	5725 2700 5725 3000
+Wire Wire Line
+	5725 2800 5025 2800
+Wire Wire Line
+	5025 2800 5025 3000
+Wire Wire Line
+	6050 2700 6050 3000
+Connection ~ 5725 2800
+Wire Wire Line
+	5375 2700 5375 3000
+Wire Wire Line
+	5375 1700 5375 1550
+Wire Wire Line
+	6750 3500 5025 3500
+Wire Wire Line
+	5375 1550 6750 1550
+Wire Wire Line
+	6050 1700 6050 1550
+Connection ~ 6050 1550
+Wire Wire Line
+	5725 1700 5725 1550
+Connection ~ 5725 1550
+Wire Wire Line
+	6400 3000 6400 1550
+Connection ~ 6400 1550
+$EndSCHEMATC
