@@ -14,7 +14,7 @@ The variable capacitor is from an old AM/FM radio receiver. It has five sections
 
 ## Performance
 
-The antenna tunes from about 6.5MHz (all the capacitors connected and at are set to the full capacity) up to about 43MHz. This tuning range makes it suitable for shortwave listening on 10-40 meters bands. The antenna shows very small bandwidth and has to be adjusted when receiver frequency changes by about 20-30 KHz. The sensitivity is not always high and sometimes it is outperformed by a long (~10M) piece of wire.
+The antenna tunes from about 6.5MHz (all the capacitors connected and at are set to the full capacity) up to about 43MHz. This tuning range makes it suitable for shortwave listening on 10-40 meters bands. The antenna shows very narrow bandwidth and has to be adjusted when receiver frequency changes by about 20-30 KHz. The sensitivity is not always high and sometimes it is outperformed by a long (~10M) piece of wire.
 
 I've never used it for transmitting because my current amateur radio license doesn't permit transmitting on HF bands.
 
