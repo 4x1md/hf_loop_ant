@@ -24,8 +24,6 @@ The first version was mounted on a plastic tube without any base to put it on.
 
 Metal tubes, variable capacitor and tumbler switches:
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_01.jpg)
-
 ![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_02.jpg)
 
 ![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_03.jpg)
