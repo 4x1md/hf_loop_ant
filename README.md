@@ -10,7 +10,7 @@ The antenna is built of two copper tubes. The tube used in the large loop, which
 
 The variable capacitor is from an old AM/FM radio receiver. It has five sections: three sections of 30 pF which were used for FM band and two of about 430 pF previously used for AM reception. One 30pF section is constantly connected to the big loop while the other four can be connected using three tumbler switches (two 30pF sections are connected together). Connecting different sections makes it possible to get different maximum capacities.
 
-![HF Resonant Loop Schematics](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_schem.png)
+![HF Resonant Loop Schematics](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_schem.png)
 
 ## Performance
 
@@ -22,34 +22,34 @@ I've never used it for transmitting because my current amateur radio license doe
 
 The first version was mounted on a plastic tube without any base to put it on.
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_01.jpg)
+![HF Resonant Loop](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_01.jpg)
 
 Metal tubes, variable capacitor and tumbler switches:
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_02.jpg)
+![HF Resonant Loop](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_02.jpg)
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_03.jpg)
+![HF Resonant Loop](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_03.jpg)
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_04.jpg)
+![HF Resonant Loop](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_04.jpg)
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_05.jpg)
+![HF Resonant Loop](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_05.jpg)
 
 The final version is mounted on a dust pan. On the photo: antenna, Tecsun PL-660 receiver and my favourite Parker "51" fountain pen.
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_06.jpg)
+![HF Resonant Loop](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_06.jpg)
 
 The pan is used as a base and some stones put on it make it stable.
 
-![HF Resonant Loop](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/hf_loop_07.jpg)
+![HF Resonant Loop](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/hf_loop_07.jpg)
 
 
 ## Questions? Suggestions?
 You are more than welcome to contact me with any questions, suggestions or propositions regarding this project. You can:
 
-1. Visit [my QRZ.COM page](https://www.qrz.com/db/4Z7DTF)
+1. Visit [my QRZ.COM page](https://www.qrz.com/db/4X5DM)
 2. Visit [my Facebook profile](https://www.facebook.com/Dima.Meln)
 3. Write me an email to iosaaris =at= gmail dot com
 
-73 de 4Z7DTF
+73 de 4X5DM ex 4Z7DTF
 
-![73's](https://raw.githubusercontent.com/4z7dtf/hf_loop_ant/master/Images/vx8_73.jpg)
+![73's](https://raw.githubusercontent.com/4x5dm/hf_loop_ant/master/Images/vx8_73.jpg)
